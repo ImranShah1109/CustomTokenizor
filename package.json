@@ -1,0 +1,25 @@
+{
+  "name": "customtokenizor",
+  "version": "1.0.0",
+  "description": "In this project we can convert the any string input into token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImranShah1109/CustomTokenizor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImranShah1109/CustomTokenizor/issues"
+  },
+  "homepage": "https://github.com/ImranShah1109/CustomTokenizor#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
